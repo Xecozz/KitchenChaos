@@ -34,6 +34,7 @@ public class GamePauseUI : MonoBehaviour
     
     private void KitchenGameManager_OnGameUnpaused(object sender, EventArgs e) {
         Hide();
+        OptionsUI.Instance.Hide();
     }
     
     private void KitchenGameManager_OnGamePaused(object sender, EventArgs e) {
