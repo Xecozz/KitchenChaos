@@ -1,2 +1,2 @@
 # KitchenChaos
-Learn with code Monkey
+Game made with unity following the Monkey code tutorial as overcooked
