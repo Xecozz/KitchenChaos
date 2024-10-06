@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b9de14f-b370-4433-96db-3288e34ef4ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KitchenChaos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KitchenChaos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenGameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenGameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/GamePauseUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/GamePauseUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/OptionsUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/OptionsUI.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +195,8 @@
       <workItem from="1683716612690" duration="79000" />
       <workItem from="1683717018010" duration="64000" />
       <workItem from="1683728975581" duration="7078000" />
+      <workItem from="1683745998520" duration="59000" />
+      <workItem from="1685547715119" duration="1049000" />
     </task>
     <servers />
   </component>
