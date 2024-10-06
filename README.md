@@ -1,5 +1,4 @@
 # KitchenChaos
-
 Bienvenue dans **KitchenChaos** ! Ce projet est un jeu de simulation de cuisine où les joueurs doivent gérer une cuisine chaotique, préparer des plats et servir des clients dans un temps imparti. Le jeu est développé en utilisant Unity.
 
 ## Structure du Projet
